@@ -1,4 +1,5 @@
 # KeyTabExtract
+This version is taken from https://github.com/ZephrFish/KeyTabExtract
 
 ## Description
 KeyTabExtract is a utility to help extract valuable information from Kerberos .keytab files, which may be used to authenticate Linux boxes to Kerberos. The script extracts information such as the realm, Service Principal, Encryption Type, and hashes (NTLM, AES-128, AES-256) with timestamps.
